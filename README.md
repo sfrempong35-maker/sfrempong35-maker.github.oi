@@ -5,7 +5,13 @@
 
 **Tool Used:** Microsoft Excel (Pivot Tables, Conditional Formatting, Slicer, Timelines, Pivot Charts)
 
-**Key findings:**
+**Project Description** This project analyses car sales performance using a dataset containing 23,906 vehicle sales records across 2022 and 2023, with total revenue of $671.5 million. The analysis explores sales trends by year, car company, dealer, gender, transmission type, colour, and body style. I cleaned and structured the dataset, then built pivot-based summaries and an interactive dashboard to highlight key business insights. The dashboard shows top-performing car companies, leading dealers, customer purchase patterns, and yearly sales growth. Key findings include higher total sales in 2023 compared with 2022, strong performance from brands such as Chevrolet and Ford, and higher revenue from automatic transmission vehicles.This project demonstrates skills in Excel data cleaning, pivot tables, dashboard design, sales analysis, data visualisation, and business insight reporting.
+
+**Key findings:** The dataset contains 23,906 car sales records, with total sales revenue of $671.5 million and an average sale value of about $28,090. Sales increased from $300.3 million in 2022 to $371.2 million in 2023, showing growth of about 23.6%. Chevrolet generated the highest revenue at $47.7 million, followed closely by Ford at $47.2 million and Dodge at $44.1 million. Rabun Used Car Sales was the top-performing dealer, generating $37.5 million from 1,313 sales.
+
+Automatic transmission vehicles performed slightly better than manual vehicles, generating $355.1 million, about 52.9% of total revenue.
+Male customers accounted for the largest share of sales, contributing $527.1 million, about 78.5% of total revenue.
+Pale White was the most popular vehicle colour by revenue, generating $309.4 million. SUVs produced the highest revenue by body style, with $170.6 million in sales, followed by Hatchbacks at $166.2 million.Austin was the strongest dealer region, generating $117.2 million, about 17.5% of total revenue.
 
 **Dashboard Overview:**
 ![CarSales](CarSales.png)
