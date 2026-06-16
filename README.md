@@ -29,6 +29,13 @@ Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY): Applied filtrs to slelect r
 
 Data Source Specification (FROM): Specified the tables used as dara sources for retrieval.
 
-**Project Description:**
+**Project Description:** This project involved analysing a pizza sales dataset using Microsoft SQL Server to extract business insights from customer orders, sales revenue, pizza categories, sizes, and pricing.
+
+The dataset contained key fields such as pizza ID, order ID, pizza name, quantity, order date, order time, unit price, total price, pizza size, pizza category, and pizza ingredients. SQL queries were written to calculate total revenue, total pizzas sold, total number of orders, and sales performance for specific pizza categories and products.
+
+The analysis also explored date-based sales trends, including pizzas ordered in January 2015 and orders placed between November and December 2015. Product-specific queries were used to measure the quantity sold for selected pizzas such as The Hawaiian Pizza, The Greek Pizza, and The Spinach Supreme Pizza. Additional filtering was applied to identify medium-sized pizzas and pizzas with a unit price above 12.5.
+
+This project demonstrates practical SQL skills, including data selection, aggregation, filtering, grouping, date range analysis, and business reporting. The insights produced from the analysis support a better understanding of sales performance, customer purchasing patterns, and product demand within the pizza business.
+
 
 **Technology Used:** SQL Server
