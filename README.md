@@ -22,8 +22,11 @@ Pale White was the most popular vehicle colour by revenue, generating $309.4 mil
 **SQL Code:** [Pizza Sql  Queries]
 
 **SQL Skills Used:** Data Retrieval (SELECT): Queried and ectracted specific information from database.
+
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN , AND): Applied filtrs to slelect relevant data, including filtering by ranges and lists.
+
+Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY): Applied filtrs to slelect relevant data, including filtering by ranges and lists.
+
 Data Source Specification (FROM): Specified the tables used as dara sources for retrieval.
 
 **Project Description:**
