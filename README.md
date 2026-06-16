@@ -48,9 +48,9 @@ This project demonstrates practical SQL skills, including data selection, aggreg
 
 **SQL Skills Used:** Data Retrieval (SELECT): Queried and ectracted specific information from database.
 
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Aggregation (SUM, COUNT, JOIN, LEFT JOIN, RIGHT JOIN): Calculated totals, such as sales, quantities, counted records and also joining tables to analyze data trends.
 
-Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY): Applied filtrs to slelect relevant data, including filtering by ranges and lists.
+Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY, ORDER BY): Applied filtrs to select relevant data, including filtering by ranges, lists, grouping data and ordering data.
 
 Data Source Specification (FROM): Specified the tables used as dara sources for retrieval.
 
