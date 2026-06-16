@@ -39,3 +39,5 @@ This project demonstrates practical SQL skills, including data selection, aggreg
 
 
 **Technology Used:** SQL Server
+
+# Project 3
