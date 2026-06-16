@@ -31,4 +31,4 @@ Data Source Specification (FROM): Specified the tables used as dara sources for 
 
 **Project Description:**
 
-**Technology Used: SQL Server**
+**Technology Used:** SQL Server
