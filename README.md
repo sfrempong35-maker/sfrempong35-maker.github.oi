@@ -41,3 +41,13 @@ This project demonstrates practical SQL skills, including data selection, aggreg
 **Technology Used:** SQL Server
 
 # Project 3
+
+**Title:** Salesman Customer Order Data Inerrogation
+
+**SQL CODE:** [Salesman Customer Order Data](http://github.com/sfrempong35-maker/sfrempong35-maker.github.oi/blob/main/Salesman%20Customer%20Order%20Data%20SQL)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology Used:**
