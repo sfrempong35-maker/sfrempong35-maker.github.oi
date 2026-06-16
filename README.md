@@ -19,7 +19,7 @@ Pale White was the most popular vehicle colour by revenue, generating $309.4 mil
 # Project 2
 **Title:** Pizza Sales Data Interrogation
 
-**SQL Code:**
+**SQL Code:** [Pizza Sql  Queries]
 
 **SQL Skills Used:**
 
