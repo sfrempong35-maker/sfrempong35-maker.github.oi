@@ -55,6 +55,12 @@ Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY, ORDER BY): Applied filtrs to
 
 Data Source Specification (FROM): Specified the tables used as dara sources for retrieval.
 
-**Project Description:**
+**Project Description:** This project involved analysing sales, customer, and order data using Microsoft SQL Server. The aim was to explore relationships among salespeople, customers, cities, commissions, and purchase orders to produce useful business reports.
 
-**Technology Used:**
+The analysis used three main tables: Salesman, Customer, and Order. SQL joins were used to connect salespeople to their assigned customers and to match customer records to order details. The queries identified salespeople and customers living in the same city, orders with purchase amounts between 500 and 2000, customers represented by specific salespeople, and salespeople earning commission above 12 per cent.
+
+Further analysis focused on customer and salesperson location differences, order details, customer grades, and order activity. Left joins were used to show customers who placed orders as well as customers with no order records. The reports also included order numbers, order dates, purchase amounts, salesperson names, and commissions.
+
+This project demonstrates practical SQL skills such as inner joins, left joins, filtering, sorting, comparison operators, date ordering, and multi-table reporting. The results support a better understanding of customer activity, salesperson performance, commission tracking, and order management.
+
+**Technology Used:** SQL Server
