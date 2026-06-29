@@ -67,7 +67,7 @@ This project demonstrates practical SQL skills such as inner joins, left joins, 
 
 # Project 4
 
-**Title:** [Data Professionals Dashboard](
+**Title:** [Data Professionals Dashboard](https://github.com/sfrempong35-maker/sfrempong35-maker.github.oi/blob/main/Data%20Professionals%20data.pbix)
 
 **Tool Used:** Microsoft Excel (Pivot Tables, Conditional Formatting, Slicer, Timelines, Pivot Charts)
 
@@ -76,3 +76,4 @@ This project demonstrates practical SQL skills such as inner joins, left joins, 
 **Key findings:** 
 
 **Dashboard Overview:**
+!(
