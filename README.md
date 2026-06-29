@@ -71,9 +71,23 @@ This project demonstrates practical SQL skills such as inner joins, left joins, 
 
 **Tool Used:** Microsoft Power BI (Data Cleaning, Cards, Maps, Timelines, Charts)
 
-**Project Description:** 
+**Project Description:** This project presents an interactive Power BI dashboard titled Data Professional Survey Breakdown. The dashboard analyses survey responses from 504 data professionals across different countries, job titles, programming language preferences, salary levels, career entry experiences, and workplace satisfaction. It provides a clear overview of the data profession and helps identify trends in career paths, technical skills, salary satisfaction, and employee experience.
 
-**Key findings:** 
+**Key findings:** The survey recorded 504 respondents, with an average age of 29.89 years.
+
+Most survey takers are based in the United States, followed by respondents grouped under Other, India, the United Kingdom, and Canada.
+
+Data Analysts recorded the highest average salary among the job roles shown on the dashboard.
+
+Python is the most preferred programming language among respondents, with a much higher number of votes than R, Other, C/C++, JavaScript, and Java.
+
+A large share of respondents described breaking into the data field as neither easy nor difficult, while others found it difficult or easy.
+
+Respondents reported higher satisfaction with coworkers, scoring 5.89 out of 10.
+
+Salary satisfaction was lower, with an average score of 4.26 out of 10, showing pay as a weaker satisfaction area compared with workplace relationships.
+
+The dashboard suggests strong interest in data careers, but also highlights entry barriers and moderate satisfaction levels within the profession.
 
 **Dashboard Overview:**
 ![DataProfessionalsDashboard](DataProfessionalsDashboard.png)
