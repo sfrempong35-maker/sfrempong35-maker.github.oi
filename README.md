@@ -76,4 +76,4 @@ This project demonstrates practical SQL skills such as inner joins, left joins, 
 **Key findings:** 
 
 **Dashboard Overview:**
-!(
+![Data Professionals Dashboard](
