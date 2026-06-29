@@ -64,3 +64,15 @@ Further analysis focused on customer and salesperson location differences, order
 This project demonstrates practical SQL skills such as inner joins, left joins, filtering, sorting, comparison operators, date ordering, and multi-table reporting. The results support a better understanding of customer activity, salesperson performance, commission tracking, and order management.
 
 **Technology Used:** SQL Server
+
+# Project 4
+
+**Title:** 
+
+**Tool Used:** Microsoft Excel (Pivot Tables, Conditional Formatting, Slicer, Timelines, Pivot Charts)
+
+**Project Description:** 
+
+**Key findings:** 
+
+**Dashboard Overview:**
