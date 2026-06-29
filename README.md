@@ -67,7 +67,7 @@ This project demonstrates practical SQL skills such as inner joins, left joins, 
 
 # Project 4
 
-**Title:** 
+**Title:** [Data Professionals Dashboard](
 
 **Tool Used:** Microsoft Excel (Pivot Tables, Conditional Formatting, Slicer, Timelines, Pivot Charts)
 
