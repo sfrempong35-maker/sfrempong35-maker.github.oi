@@ -47,11 +47,11 @@ This project demonstrates practical SQL skills, including data selection, aggreg
 
 **SQL CODE:** [Salesman Customer Order Data](http://github.com/sfrempong35-maker/sfrempong35-maker.github.oi/blob/main/Salesman%20Customer%20Order%20Data%20SQL)
 
-**SQL Skills Used:** Data Retrieval (SELECT): Queried and ectracted specific information from database.
+**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from database.
 
 Data Aggregation (SUM, COUNT, JOIN, LEFT JOIN, RIGHT JOIN): Calculated totals, such as sales, quantities, counted records and also joining tables to analyze data trends.
 
-Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY, ORDER BY): Applied filtrs to select relevant data, including filtering by ranges, lists, grouping data and ordering data.
+Data Filtering (WHERE, BETWEEN, IN , AND, GROUP BY, ORDER BY): Applied filters to select relevant data, including filtering by ranges, lists, grouping data and ordering data.
 
 Data Source Specification (FROM): Specified the tables used as dara sources for retrieval.
 
